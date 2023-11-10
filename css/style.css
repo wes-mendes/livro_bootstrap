@@ -96,5 +96,9 @@ footer {
 }
 
 .imagemmenor {
+  width: 60%;
+}
+
+.capa {
   width: 50%;
 }
